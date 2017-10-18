@@ -5,7 +5,7 @@ Conky configuration for **Gnome 3.22.3** on debian 9
 1. Install conky https://github.com/brndnmtthws/conky
 2. Install fonts (below)
 3. Copy ```conky.conf``` in ```~/.config/conky/conky.conf```
-4. Add the following text to a new file in ```~/.config/autostart```
+4. Add the following text to a new file in ```~/.config/autostart/conky.desktop```
 ```
 [Desktop Entry]
 Type=Application
